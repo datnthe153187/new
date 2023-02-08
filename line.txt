@@ -1,0 +1,3 @@
+The re.sub() function stands for a substring and returns a string with replaced values. 
+Multiple elements can be replaced 
+using a list when we use this function.
